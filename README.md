@@ -1,5 +1,5 @@
 # AquaSense
-EN2160_EDR_Individual_Project-Water_Level_Indicator
+EN2160_EDR_Individual_Project-Water_Level_Indicator.
 
 AquaSense is a smart water level indicator designed to monitor and display the water level in a tank automatically. 
 The user can set upper and lower threshold values, and when they exceeded, an integrated buzzer, OLED screen, and LED provide visible and audible alerts. 

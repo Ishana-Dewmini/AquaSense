@@ -20,4 +20,6 @@ Users can completely turn off the OLED and the buzzer if they are not used and m
 5. Connectionless-Mode
 Users can monitor the water level only through the device screen without connecting two WIFI.
 
-see more: https://www.linkedin.com/feed/update/urn:li:activity:7105907754262810625/
+### You can find complete details about the project in the following linked-in article
+
+https://www.linkedin.com/feed/update/urn:li:activity:7105907754262810625/

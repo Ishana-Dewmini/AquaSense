@@ -6,6 +6,11 @@ The user can set upper and lower threshold values, and when they exceeded, an in
 Moreover, the device sends real-time notifications to the user's smartphone, allowing remote monitoring via a mobile application. 
 To conserve power, users can manually deactivate the display and buzzer while maintaining a connection to the app. A
 quaSense not only ensures efficient water management but also offers a user-friendly interface, empowering individuals to make informed decisions about their water resources.
+
+![AquaSense](AquaSense.png)
+![Interface](interface.png)
+
+## Functionality
 ### 1. Normal mode
 - Users can monitor the tank water level through both the device screen and the Blynk IOT mobile application.
 - Users can change the full tank distance (Distance from the sensor to the water level when the tank is filled) and the empty tank distance (Distance from the sensor to the bottom of the tank) through the mobile app.

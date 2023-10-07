@@ -22,4 +22,4 @@ Users can monitor the water level only through the device screen without connect
 
 ### You can find complete details about the project in the following linked-in article
 
-https://www.linkedin.com/feed/update/urn:li:activity:7105907754262810625/
+[https://www.linkedin.com/feed/update/urn:li:activity:7105907754262810625/](https://www.linkedin.com/pulse/aquasense-ishana-dewmini%3FtrackingId=EWFOA5ErT3a0n2TSN%252FGypw%253D%253D/?trackingId=EWFOA5ErT3a0n2TSN%2FGypw%3D%3D)https://www.linkedin.com/pulse/aquasense-ishana-dewmini%3FtrackingId=EWFOA5ErT3a0n2TSN%252FGypw%253D%253D/?trackingId=EWFOA5ErT3a0n2TSN%2FGypw%3D%3D

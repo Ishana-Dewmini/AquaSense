@@ -7,8 +7,8 @@ Moreover, the device sends real-time notifications to the user's smartphone, all
 To conserve power, users can manually deactivate the display and buzzer while maintaining a connection to the app. A
 quaSense not only ensures efficient water management but also offers a user-friendly interface, empowering individuals to make informed decisions about their water resources.
 
-![AquaSense](AquaSense.png)
-![Interface](interface.png)
+![AquaSense](AquaSense.jpeg)
+![Interface](Anterface.jpeg)
 
 ## Functionality
 ### 1. Normal mode
@@ -25,6 +25,6 @@ quaSense not only ensures efficient water management but also offers a user-frie
 ### 3. Connectionless-Mode
 -Users can monitor the water level only through the device screen without connecting two WIFI.
 
-## You can find complete details about the project in the following linked-in article
+## You can find complete details about the project in the following LinkedIn article.
 
 https://www.linkedin.com/pulse/aquasense-ishana-dewmini%3FtrackingId=EWFOA5ErT3a0n2TSN%252FGypw%253D%253D/?trackingId=EWFOA5ErT3a0n2TSN%2FGypw%3D%3D

@@ -8,7 +8,7 @@ To conserve power, users can manually deactivate the display and buzzer while ma
 quaSense not only ensures efficient water management but also offers a user-friendly interface, empowering individuals to make informed decisions about their water resources.
 
 ![AquaSense](AquaSense.jpeg)
-![Interface](Anterface.jpeg)
+![Interface](Interface.jpeg)
 
 ## Functionality
 ### 1. Normal mode
